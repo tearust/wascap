@@ -497,8 +497,6 @@ dependencies = [
 [[package]]
 name = "nkeys"
 version = "0.0.12"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "08ffd62f78a4747e120603774da8081c10df6b023ee45b696e45ceef27c78cc1"
 dependencies = [
  "byteorder",
  "data-encoding",
